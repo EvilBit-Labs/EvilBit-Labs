@@ -48,16 +48,3 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_reactions: no
-          plugin_reactions_display: relative
-          plugin_reactions_limit: 200
-          plugin_reactions_limit_discussions: 100
-          plugin_reactions_limit_discussions_comments: 100
-          plugin_reactions_limit_issues: 100
-          plugin_topics: yes
-          plugin_topics_limit: 25
-          plugin_topics_mode: mastered
-          plugin_topics_sort: stars
-          plugin_wakatime: yes
-          plugin_wakatime_token: 42b59e2a-a577-4b8f-a604-52fe4acb3a97
-          plugin_wakatime_sections: time, languages, languages-graphs, editors, os, os-graphs
