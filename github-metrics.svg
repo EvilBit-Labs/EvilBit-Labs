@@ -401,7 +401,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developers
-                                    <span class="gh">ranked 23.4m out of 106m users</span>
+                                    <span class="gh">ranked 22.3m out of 106m users</span>
                                 </div>
                                 <div class="text">Published 1 public repository</div>
                             </div>
@@ -443,7 +443,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 22 Jan 2023, 07:08:31 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 22 Jan 2023, 19:27:01 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
