@@ -64,7 +64,7 @@ EvilBit Labs is where we go to build things we’re proud of, not things that pl
 
 ## Links
 
-- Website: [https://evilbit.io](https://evilbit.io)
+- Website: [https://evilbit.io](https://www.evilbitlabs.io)
 - Projects: [github.com/EvilBit-Labs](https://github.com/EvilBit-Labs)
 
 ---
